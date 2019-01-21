@@ -1,5 +1,7 @@
 # gc-private
-Change Garmin Connect privacy settings for multiple activities (based on date range)
+Change Garmin Connect privacy settings for multiple activities (based on date range).
+
+Requires Python 3.
 
 ```
 usage: gcprivate.py [-h] [--version] [--username [USERNAME]]

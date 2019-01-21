@@ -23,7 +23,7 @@ optional arguments:
   --privacy [PRIVACY]   public, private, subscribers, groups  
   ```
 
-# Original Credits
+### Original Credits
 File: gcexport.py  
 Original author: Kyle Krafka (https://github.com/kjkjava/)  
 Date: April 28, 2015  

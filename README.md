@@ -22,3 +22,10 @@ optional arguments:
                         2018-10-30) (otherwise, you will be prompted)  
   --privacy [PRIVACY]   public, private, subscribers, groups  
   ```
+
+# Original Credits
+File: gcexport.py  
+Original author: Kyle Krafka (https://github.com/kjkjava/)  
+Date: April 28, 2015  
+Fork author: Michael P (https://github.com/moderation/)  
+Date: February 15, 2018  

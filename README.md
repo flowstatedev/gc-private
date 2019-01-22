@@ -27,6 +27,8 @@ optional arguments:
 
 ### Original Credits
 File: gcexport.py  
+https://github.com/kjkjava/garmin-connect-export/
+
 Original author: Kyle Krafka (https://github.com/kjkjava/)  
 Date: April 28, 2015  
 Fork author: Michael P (https://github.com/moderation/)  

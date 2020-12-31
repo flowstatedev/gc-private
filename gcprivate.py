@@ -27,6 +27,12 @@ def show_exception_and_exit(exc_type, exc_value, tb):
 import sys
 sys.excepthook = show_exception_and_exit
 
+# workaround for SSL certificate error
+
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
+
 # ##############################################
 
 from datetime import datetime, timedelta

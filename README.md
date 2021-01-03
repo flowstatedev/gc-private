@@ -4,9 +4,10 @@ Change Garmin Connect privacy settings for multiple activities (based on date ra
 Requires Python 3.
 
 ```
-usage: gcprivate.py [-h] [--version] [--username [USERNAME]]
-                    [--password [PASSWORD]] [--startdate [STARTDATE]]
-                    [--enddate [ENDDATE]] [--privacy [PRIVACY]]
+usage: gcprivate.py [-h] [--version]
+                    [--username [USERNAME]] [--password [PASSWORD]] 
+                    [--startdate [STARTDATE]] [--enddate [ENDDATE]]
+                    [--privacy [PRIVACY]]
 
 optional arguments:  
   -h, --help            show this help message and exit    
